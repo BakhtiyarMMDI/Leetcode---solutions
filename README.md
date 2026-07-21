@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0392-is-subsequence) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0735-asteroid-collision](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0735-asteroid-collision) |
 | [2390-removing-stars-from-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/2390-removing-stars-from-a-string) |
 ## Simulation
