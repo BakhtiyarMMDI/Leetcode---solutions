@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
+| [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0392-is-subsequence) |
 | [0443-string-compression](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0443-string-compression) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0605-can-place-flowers](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0724-find-pivot-index) |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
@@ -93,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1657-determine-if-two-strings-are-close](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
@@ -105,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [1004-max-consecutive-ones-iii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 ## Counting
 |  |
