@@ -142,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -149,12 +150,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0100-same-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0100-same-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0226-invert-binary-tree) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -162,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0104-maximum-depth-of-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0226-invert-binary-tree) |
 | [0872-leaf-similar-trees](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0872-leaf-similar-trees) |
+| [1448-count-good-nodes-in-binary-tree](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1448-count-good-nodes-in-binary-tree) |
 ## Linked List
 |  |
 | ------- |
