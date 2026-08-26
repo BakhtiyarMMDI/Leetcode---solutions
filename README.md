@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
@@ -37,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -79,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
