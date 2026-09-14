@@ -39,12 +39,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
+| [0066-plus-one](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0066-plus-one) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0011-container-with-most-water) |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
+| [0066-plus-one](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
