@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0066-plus-one](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0066-plus-one) |
 | [0135-candy](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0135-candy) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0238-product-of-array-except-self) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0334-increasing-triplet-subsequence) |
@@ -86,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
+| [0219-contains-duplicate-ii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0771-jewels-and-stones](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0771-jewels-and-stones) |
 | [1207-unique-number-of-occurrences](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
@@ -109,6 +111,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0219-contains-duplicate-ii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
 | [1004-max-consecutive-ones-iii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
