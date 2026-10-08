@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0011-container-with-most-water) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
+| [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0066-plus-one) |
+| [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 | [1071-greatest-common-divisor-of-strings](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1071-greatest-common-divisor-of-strings) |
 ## Array
 |  |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0242-valid-anagram) |
@@ -208,4 +211,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0933-number-of-recent-calls](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0933-number-of-recent-calls) |
+## Floyd's Cycle Finding Algorithm
+|  |
+| ------- |
+| [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 <!---LeetCode Topics End-->
