@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
 | [0334-increasing-triplet-subsequence](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0605-can-place-flowers) |
 | [0643-maximum-average-subarray-i](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
+| [0414-third-maximum-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0414-third-maximum-number) |
 | [1657-determine-if-two-strings-are-close](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
 ## Sliding Window
