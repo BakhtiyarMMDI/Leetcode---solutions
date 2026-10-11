@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
@@ -50,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0001-two-sum) |
 | [0011-container-with-most-water](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0011-container-with-most-water) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0041-first-missing-positive](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0041-first-missing-positive) |
 | [0049-group-anagrams](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0066-plus-one) |
