@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0125-valid-palindrome](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0202-happy-number](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0202-happy-number) |
 | [0283-move-zeroes](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0283-move-zeroes) |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0049-group-anagrams](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0049-group-anagrams) |
+| [0125-valid-palindrome](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0151-reverse-words-in-a-string) |
 | [0242-valid-anagram](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0242-valid-anagram) |
 | [0345-reverse-vowels-of-a-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0345-reverse-vowels-of-a-string) |
