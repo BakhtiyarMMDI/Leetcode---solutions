@@ -249,4 +249,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0535-encode-and-decode-tinyurl](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0535-encode-and-decode-tinyurl) |
+## Database
+|  |
+| ------- |
+| [0584-find-customer-referee](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0584-find-customer-referee) |
 <!---LeetCode Topics End-->
