@@ -79,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0735-asteroid-collision) |
+| [0904-fruit-into-baskets](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1207-unique-number-of-occurrences](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1431-kids-with-the-greatest-number-of-candies) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0349-intersection-of-two-arrays) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0771-jewels-and-stones](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0771-jewels-and-stones) |
+| [0904-fruit-into-baskets](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [1207-unique-number-of-occurrences](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1207-unique-number-of-occurrences) |
 | [1657-determine-if-two-strings-are-close](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1657-determine-if-two-strings-are-close) |
 | [1679-max-number-of-k-sum-pairs](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1679-max-number-of-k-sum-pairs) |
@@ -153,6 +155,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0219-contains-duplicate-ii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0219-contains-duplicate-ii) |
 | [0643-maximum-average-subarray-i](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0643-maximum-average-subarray-i) |
+| [0904-fruit-into-baskets](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0904-fruit-into-baskets) |
 | [1004-max-consecutive-ones-iii](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1004-max-consecutive-ones-iii) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/1493-longest-subarray-of-1s-after-deleting-one-element) |
