@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
+| [0155-min-stack](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0155-min-stack) |
 | [0394-decode-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0735-asteroid-collision) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0155-min-stack](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0155-min-stack) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0933-number-of-recent-calls](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
