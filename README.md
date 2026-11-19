@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0020-valid-parentheses) |
 | [0150-evaluate-reverse-polish-notation](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0150-evaluate-reverse-polish-notation) |
 | [0155-min-stack](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0394-decode-string](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0394-decode-string) |
 | [0682-baseball-game](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0682-baseball-game) |
 | [0735-asteroid-collision](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0735-asteroid-collision) |
@@ -242,11 +243,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0155-min-stack](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0155-min-stack) |
+| [0232-implement-queue-using-stacks](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0535-encode-and-decode-tinyurl](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0535-encode-and-decode-tinyurl) |
 | [0933-number-of-recent-calls](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 ## Queue
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0232-implement-queue-using-stacks) |
 | [0649-dota2-senate](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0649-dota2-senate) |
 | [0933-number-of-recent-calls](https://github.com/BakhtiyarMMDI/Leetcode---solutions/tree/master/0933-number-of-recent-calls) |
 ## Data Stream
